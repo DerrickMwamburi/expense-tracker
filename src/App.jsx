@@ -67,7 +67,7 @@ function App() {
       <ExpenseTable expenses={filteredExpenses} onDeleteExpense={handleDeleteExpense} />
 
       <footer className="footer">
-        created by <strong>DERRICK</strong>
+        created by <strong>DERRICK KATUTE</strong>
       </footer>
     </div>
   );
