@@ -38,14 +38,7 @@ expense-tracker/
  HTML5 / CSS3
  Git & GitHub
  Netlify (for deployment)
- Installation
-
-To run this project locally:
-
-git clone https://github.com/YOUR-USERNAME/expense-tracker.git
-cd expense-tracker
-npm install
-npm run dev
+ 
 
 Github repository
 
